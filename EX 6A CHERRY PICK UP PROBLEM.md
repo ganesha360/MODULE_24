@@ -26,9 +26,9 @@ When passing through a path cell containing a cherry, you pick it up, and the ce
 
 ## Program:
 
-Developed by: Kishore S
+Developed by: GANESH R
 
-Register Number:  212222240050
+Register Number:  212222240029
 ```python
 class Solution:
     def cherryPickup(self, grid):
