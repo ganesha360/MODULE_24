@@ -17,9 +17,9 @@ To write a python program using brute force method of searching for the given su
 
 
 ## Program:
-Developed by: Kishore S
+Developed by: GANESH R
 
-Register Number: 212222240050 
+Register Number:  212222240029 
 
 ```python
 
