@@ -29,10 +29,9 @@ To Solve Travelling Sales man Problem for the following graph.
    min(dp[all_visited_mask][j] + dist[j][0])
    for all j ≠ 0, where all_visited_mask = (1 << n) - 1
 ## Program:
+Developed by: GANESH R
 
-Developed by: KIshore S
-
-Register Number:  212222240050
+Register Number:  212222240029
 ```python
 from sys import maxsize
 from itertools import permutations
